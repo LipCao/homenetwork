@@ -1,0 +1,64 @@
+.person .breadcrumb{background-color: transparent; margin-bottom:5px;}
+.person .breadcrumb a{color:f#333;font-size: 16px;font-family: 'Arial';}
+.person .breadcrumb .back{color:#bf3666;margin-right: 10px;}
+.person h3{font-size:18px;color:#333;}
+.person .side li{font-size:14px;color:#666;margin-top:20px;cursor:pointer;}
+.person .list{display: none;}
+.person .list:first-child{display: block;}
+.person .list p{color:#000;font-size:14px;margin-top:20px;}
+.person .btn:hover{color:#fff;}
+.person .panel{padding:20px 15px;border:1px solid #e3e3e3;}
+.person .pane2{padding:20px 30px;border:1px solid #e3e3e3;}
+.person .panel-body{padding:10px;}
+.person .info_edit{ padding: 20px 30px; }
+.person .info_edit .form-control{width: 300px; height: 40px;}
+.person .info_edit .form-group,.person .info_edit .w650{width: 650px;} 
+.form-group label{ font-weight: 400; }
+.form-group .home_person_form p{ margin-top: 0; }
+.form-group .home_person_form input{ margin-right: 8px; }
+.form-group .btn{ font-weight: bold; padding: 6px 25px; border-radius:0; margin-top: 10px;}
+.form-group .form_cancel{ background-color: transparent; border:2px solid #000; color: #000; margin-right: 40px; }
+.form-group .form_cancel:hover{ color:#000; }
+.form-group .form_save{background-color:#000; color: #fff; padding: 7px 34px;}
+.form-group .form_pass{ padding-top: 16px; }
+.form-group .form_cancel_01{ background-color: #999; color: #fff; margin-right: 40px;}
+.form-group .form_chpass{ margin-left: 30px; text-decoration: underline; }
+.change_password{ margin: 30px auto 20px; }
+.form-group label i{ color: #dc4e41; }
+.form-group .form_cancel_21{ margin-right: 100px; }
+.form-group .form_card{ width: 46%; }
+.form-group .form_card .form-control_3{ width: 140px; }
+.info_edit h5{ font-size: 18px; color: #666; margin:20px 0 15px;}
+.list .form_person_img img{ margin:10px 0 0; }
+.person .info_edit4{ padding: 0; }
+.person .info_edit4 h3{ color: #333; }
+
+.info_edit4 .personal_order_centent{ margin: 15px 0 20px; }
+.home_person table tr td{ border:1px solid #e3e3e3; padding: 10px; text-align: center;}
+.home_person .personal_table_w35{ width: 35%; overflow: hidden; }
+.home_person .personal_table_w30{ width: 25%; overflow: hidden; }
+.home_person .personal_table_w22{ width: 25%; overflow: hidden; font-size: 13px; color: #666; padding: 1%;line-height: 20px;}
+.home_person .personal_table_w13{ width: 13%; overflow: hidden; font-size: 13px; color: #333; }
+.personal_order_centent table th{ background-color: #E7E8EC; font-weight: 400;}
+.person .list .personal_order_top_left{ margin-top: 0; padding: 5px 10px; color: #333; font-size: 14px; }
+.personal_order_top_left span{ color: #666; margin-right: 8px; }
+.personal_order_top_left a{ margin-left: 8px; }
+.personal_order_top_left a:hover{text-decoration: underline;}
+.personal_order_list_left{ float: left; width: 48px; height: 48px; border:1px solid #e5e5e5; line-height: 60px;text-align: center; box-sizing: border-box;}
+.personal_order_list_left img{ width: 100%;vertical-align:middle; display: list-item; }
+.home_person .list .personal_order_name{ float: left; color: #666; width: 180px;  text-overflow: ellipsis; height: 40px; line-height: 20px; overflow: hidden; margin:0 5px 0 10px; font-size: 13px; text-align: left; }
+.home_person .list .personal_order_qty{float: left; margin: 20px 0 0 5px;color: #8a90b2; font-size: 13px; }
+.home_person .personal_table_w13{ width: 15%; overflow: hidden; font-size: 16px; color: #333; font-weight: bold; text-align: center; }
+.home_person .personal_order_track{width:130px;height:32px;background:#000; display: block; margin: 10px auto 10px; line-height: 32px; color: #fff; font-size: 16px; border-radius:4px;}
+.home_person .personal_order_track:hover{color: #fff; }
+.home_person .list .personal_order_cancel{ font-size: 16px; color:#333; text-align: center; margin-top: 0;}
+.home_person table .personal_order_more{ font-size: 16px; color: #333;  }
+.info_edit4 h3 a{ color: #333; font-size: 13px; line-height: 20px; }
+.home_person table .personal_order_more:hover,.info_edit4 h3 a:hover{text-decoration: underline;}
+.home_person .list .personal_order_way{ font-size: 16px; color: #333;margin-top: 0;}
+.home_person .list .personal_order_paypal{ font-size: 13px; color: #333; margin-top: 0; }
+
+
+
+
+
